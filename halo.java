@@ -9,8 +9,10 @@ public class halo {
         System.out.println("Dia akan menjadi 'kunang-kunang laut'! Haha!");
 
         System.out.println("\nIngat, meskipun kamu merasa kesepian, aku selalu ada di sini untuk membuatmu tersenyum!");
+        System.out.println("Jangan lupa, kamu tidak sendirian! Kita bisa tertawa bersama!");
     }
 }
 
 //tessss
 // Ini adalah program Java sederhana yang memberikan semangat dan humor kepada teman yang merasa kesepian.
+// Program ini mencetak beberapa lelucon ringan untuk menghibur teman tersebut.
